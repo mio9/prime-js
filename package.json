@@ -1,0 +1,17 @@
+{
+  "name": "prime.js",
+  "version": "0.1.0",
+  "description": "The prime number finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "funny",
+    "useless",
+    "joke",
+    "prime"
+  ],
+  "author": "MiO9",
+  "license": "MIT"
+}
